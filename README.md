@@ -15,7 +15,6 @@
    # Блок-схема
    <img width="516" height="679" alt="2026-10-19_21-49-32" src="https://github.com/user-attachments/assets/c220af49-cd57-4a39-aade-605ce7a7ac73" />
 
-https://app.diagrams.net/#G1sBhmloZfZ1McELqpkuunipL5KZrfGpV3#%7B%22pageId%22%3A%22B9O1nr5MP7RBmoUzH9Co%22%7D
 
 # Код
 
